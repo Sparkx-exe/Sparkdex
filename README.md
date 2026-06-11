@@ -112,7 +112,7 @@ Sparkdex/
 
 ## 📸 Screenshots
 
-> Images
+> https://github.com/Sparkx-exe/Sparkdex/tree/dca5bafd73bab95b0b2f84237e71d9469e24d9df/Images
 
 ---
 
