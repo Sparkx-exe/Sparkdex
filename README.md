@@ -112,7 +112,7 @@ Sparkdex/
 
 ## 📸 Screenshots
 
-> *Screenshots coming soon — stay tuned!*
+> Images
 
 ---
 
