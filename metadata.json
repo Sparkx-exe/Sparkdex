@@ -1,0 +1,6 @@
+{
+  "name": "SparkDex",
+  "description": "A high-fidelity modern Manga reader using the MangaDex API, built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
